@@ -1,0 +1,14 @@
+# Site settings
+title: LAGER Survey
+email: lagersurvey@gmail.com
+description: Lyman Alpha Galaxies in the Epoch of Reionization # this means to ignore newlines until 
+keywords: cosmic reionization; narrowband survey
+author: 
+"baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+github_username: lagersurvey
+
+# Build settings
+markdown: kramdown
