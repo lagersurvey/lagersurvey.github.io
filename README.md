@@ -1,1 +1,1 @@
-#Lyman Allpha Galaxies in the Epoch of Reionization
+# Lyman Allpha Galaxies in the Epoch of Reionization
